@@ -20,3 +20,10 @@ Thumbs.db
 # Env files (secrets)
 .env
 .env.local
+
+# Runtime data (not in repo; AI can still read)
+data/
+assets/
+
+# Internal / planning (not in repo; AI can still read)
+project.md

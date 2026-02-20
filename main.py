@@ -1,6 +1,4 @@
-def main():
-    print("Hello from vector-archive!")
-
+from backend.app.main import main
 
 if __name__ == "__main__":
     main()
